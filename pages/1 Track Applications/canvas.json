@@ -3117,9 +3117,9 @@
                       "fontFamily": "System Default",
                       "leftColumn": 2,
                       "dynamicBindingPathList": [],
-                      "text": "Job Applications",
+                      "text": "Job\n",
                       "labelTextSize": "0.875rem",
-                      "rightColumn": 37,
+                      "rightColumn": 43,
                       "textAlign": "LEFT",
                       "dynamicHeight": "FIXED",
                       "widgetId": "wzbd482jqa",
@@ -3149,7 +3149,7 @@
                           "key": "onOptionChange"
                         }
                       ],
-                      "leftColumn": 37,
+                      "leftColumn": 44,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
