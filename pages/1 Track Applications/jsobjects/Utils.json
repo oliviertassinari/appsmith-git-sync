@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "1 Track Applications",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tupdateStatus: () => {\n\t\tstoreValue('tableIndex',application_table.selectedRowIndex)\n\t\tupdateApplicationStatus.run(() => getApplications.run(), () => {})\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "1 Track Applications_Utils",
+  "deleted": false,
+  "gitSyncId": "61c170fe9229e87746b79e05_6202644356d52d3fd7b718f8"
+}
